@@ -10,7 +10,7 @@ int main()
 	{
 		digits += log10(i);
 	}
-	printf("broqt na cifrite na proizwedenieto e %lu", (unsigned long)digits);
+	printf("broqt na cifrite na proizwedenieto e %lu", (unsigned long)digits+1);
 
 
 	return (0);
